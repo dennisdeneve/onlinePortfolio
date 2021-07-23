@@ -1,1 +1,1 @@
-This is an online portfolio about me and my experiences.
+This is an online portfolio about me.
